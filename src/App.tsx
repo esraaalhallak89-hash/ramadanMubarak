@@ -63,7 +63,7 @@ export default function RamadanLantern() {
         minWidth: "20px",
         height: "auto",
         fontSize: "8vw",
-        font-weight: 900;
+        fontWeight: "900",
         color: isOn ? "#eca02f" : "#000000",
         display: isOn ? "inline-block" : "none"
       }}>✨رمضان كريم🌙</div>
