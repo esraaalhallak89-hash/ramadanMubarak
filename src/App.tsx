@@ -57,7 +57,7 @@ export default function RamadanLantern() {
           }
         }
       }}>
-        {isOn ? "اطفي الفانوس " : " ✨ انقر"}
+        {isOn ? "اطفي الفانوس " : "انقر👆"}
       </button>
       <div style={{
         minWidth: "20px",
